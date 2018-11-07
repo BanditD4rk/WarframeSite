@@ -1,0 +1,11 @@
+.body
+{
+    background: url(img/bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#conteudo
+{
+    width: 700px; height: 700px; background: black; margin:0 auto;
+}
